@@ -47,7 +47,7 @@
         {
             "title": "Test",
             "url": "cnn.com",
-            "arrow": false,
+            "arrow": true,
             "type": "action"
         }
     ]
